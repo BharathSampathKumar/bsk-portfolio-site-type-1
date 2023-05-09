@@ -1,0 +1,1 @@
+Development/preview mode: npx parcel src/index.html

@@ -1,0 +1,38 @@
+{
+  "name": "bsk-portfolio-site-type-1",
+  "version": "1.0.0",
+  "description": "Portfolio site in a single page style design",
+  "main": "index.js",
+  "scripts": {
+    "watch": "parcel index.html",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BharathSampathKumar/bsk-portfolio-site-type-1.git"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "single",
+    "page",
+    "scroll",
+    "site"
+  ],
+  "author": "Bharath Sampath Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BharathSampathKumar/bsk-portfolio-site-type-1/issues"
+  },
+  "homepage": "https://github.com/BharathSampathKumar/bsk-portfolio-site-type-1#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
